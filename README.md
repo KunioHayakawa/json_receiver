@@ -7,8 +7,6 @@ Build a PHP Environment. If you use CentOS 7,
 # Installation.
 ```
 # cd /var/www/html
-# mkdir json_receiver
-# cd json_receiver
 # git clone https://github.com/KunioHayakawa/json_receiver.git
 ```
 
